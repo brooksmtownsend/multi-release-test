@@ -1,0 +1,7 @@
+# .github/other-release.yml
+
+changelog:
+  categories:
+    - title: Smol release
+      labels:
+        - '*'
